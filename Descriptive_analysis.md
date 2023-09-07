@@ -1,4 +1,6 @@
 # Descriptive analysis
+
+## Day 3 : 06.09.2023
 ### neuefische GmbH (c)
 
 * The class conducted by Sergio Lust as on 06/09/2023 as [1_5_The Art of Problem Solving-Asking Questions](https://drive.google.com/file/d/1owPJrCdzgMcLRfbt-kXTqY4C3BcK7OVv/view?usp=drive_link)
